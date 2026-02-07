@@ -1,6 +1,6 @@
 # Django Backend Foundations
 
-This repository documents my journey learning backend development with **Django**, following the **Maximilian Schwarzmüller Django course**, and extending the concepts with hands-on practice and mini projects.
+This repository documents my journey learning backend development with **Django**, and extending the concepts with hands-on practice and mini projects.
 
 The goal is to build a strong foundation in Django backend development, focusing on real-world patterns, clean architecture, and best practices.
 
